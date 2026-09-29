@@ -9,6 +9,8 @@ const STATUS_LINES = [
   '準備が整いました',
 ]
 
+const LOADER_BG = `${import.meta.env.BASE_URL}images/loader-bg.jpg`
+
 type LoadingScreenProps = {
   onComplete: () => void
 }
@@ -39,7 +41,12 @@ export function LoadingScreen({ onComplete }: LoadingScreenProps) {
 
   return (
     <div className={`loader${exiting ? ' exit' : ''}`} role="status" aria-live="polite">
-      <div className="loader-bg" />
+      <div
+        className="loader-bg"
+        style={{
+          backgroundImage: `linear-gradient(155deg, rgba(7, 20, 38, 0.55) 0%, rgba(14, 40, 72, 0.42) 48%, rgba(7, 20, 38, 0.68) 100%), url('${LOADER_BG}')`,
+        }}
+      />
       <div className="loader-grain" />
       <div className="loader-inner">
         <div className="loader-logo-wrap">
