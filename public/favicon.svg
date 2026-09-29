@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
-  <rect width="64" height="64" fill="#0C1F3A"/>
-  <path d="M10 44.5H54" stroke="#E8F1FB" stroke-width="1.2" stroke-opacity="0.35"/>
-  <path d="M12 42 L22 42 L22 32 L34 32 L34 22 L46 22 L46 14" stroke="#7EB0F0" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" fill="none"/>
-  <path d="M42 10 H50 V18" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="square"/>
-  <path d="M50 10 L40 20" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="square"/>
-  <rect x="12" y="46" width="6" height="2.5" fill="#7EB0F0" opacity="0.9"/>
-  <rect x="22" y="46" width="6" height="2.5" fill="#7EB0F0" opacity="0.55"/>
-  <rect x="32" y="46" width="6" height="2.5" fill="#7EB0F0" opacity="0.3"/>
+  <rect width="64" height="64" fill="#E8F2FA"/>
+  <path d="M10 44.5H54" stroke="#3A6AA0" stroke-width="1.2" stroke-opacity="0.4"/>
+  <path d="M12 42 L22 42 L22 32 L34 32 L34 22 L46 22 L46 14" stroke="#4A7FB8" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" fill="none"/>
+  <path d="M42 10 H50 V18" stroke="#1E3A5F" stroke-width="2.2" stroke-linecap="square"/>
+  <path d="M50 10 L40 20" stroke="#1E3A5F" stroke-width="2.2" stroke-linecap="square"/>
+  <rect x="12" y="46" width="6" height="2.5" fill="#4A7FB8" opacity="0.9"/>
+  <rect x="22" y="46" width="6" height="2.5" fill="#4A7FB8" opacity="0.55"/>
+  <rect x="32" y="46" width="6" height="2.5" fill="#4A7FB8" opacity="0.3"/>
 </svg>

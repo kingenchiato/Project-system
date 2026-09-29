@@ -24,7 +24,7 @@ export function Sidebar() {
   return (
     <aside className="sidebar">
       <div className="sidebar-brand">
-        <Logo size={36} variant="light" />
+        <Logo size={36} variant="dark" />
         <div className="sidebar-brand-text">
           <strong>STRIDE</strong>
           <span>PROJECT SYSTEM</span>
