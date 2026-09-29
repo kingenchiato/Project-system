@@ -1241,8 +1241,8 @@ table.data tbody tr:hover td {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(180deg, rgba(246, 249, 252, 0.55) 0%, rgba(232, 242, 250, 0.42) 40%, rgba(255, 255, 255, 0.72) 100%),
-    radial-gradient(ellipse at 20% 15%, rgba(255, 255, 255, 0.45), transparent 45%);
+    linear-gradient(180deg, rgba(246, 249, 252, 0.28) 0%, rgba(232, 242, 250, 0.22) 35%, rgba(255, 255, 255, 0.58) 100%),
+    radial-gradient(ellipse at 20% 15%, rgba(255, 255, 255, 0.25), transparent 45%);
   pointer-events: none;
 }
 
